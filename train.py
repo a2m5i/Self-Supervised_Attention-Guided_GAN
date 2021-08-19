@@ -1,4 +1,4 @@
-""" ^^^ Quoted from [AttentionGAN](https://github.com/Ha0Tang/AttentionGAN) ^^^
+""" Quoted from AttentionGAN : https://github.com/Ha0Tang/AttentionGAN
     
 General-purpose training script for image-to-image translation.
 
