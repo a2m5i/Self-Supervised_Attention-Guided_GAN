@@ -9,6 +9,7 @@
 # Self-Supervised Attention-Guided GAN for Unpaired Image-to-Image Translation
 
 The repositrory was made for my graduation thesis ([here](https://github.com/a2m5i/MyGraduationThesis))
+Quoted from [AttentionGAN](https://github.com/Ha0Tang/AttentionGAN) repository, please check the rest of details about AttentionGAN's training/test or so. 
 
 ## Evaluation Code
 Only [FID](https://github.com/bioinf-jku/TTUR): Official Implementation
