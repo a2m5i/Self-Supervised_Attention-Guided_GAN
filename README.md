@@ -8,7 +8,7 @@
 
 # Self-Supervised Attention-Guided GAN for Unpaired Image-to-Image Translation
 
-The repository offers the official implementation of our paper in PyTorch.
+The repositrory was made for my graduation thesis ([here](https://github.com/a2m5i/MyGraduationThesis))
 
 ## AttentionGAN Training/Testing
 - Download a dataset using the previous script (e.g., horse2zebra).
