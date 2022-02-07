@@ -8,7 +8,7 @@
 
 # Self-Supervised Attention-Guided GAN for Unpaired Image-to-Image Translation
 
-The repositrory was made for my graduation thesis ([here](https://github.com/a2m5i/MyGraduationThesis))   
+The repositrory was made for my graduation thesis ([here](https://github.com/))   
 Quoted from [AttentionGAN](https://github.com/Ha0Tang/AttentionGAN) repository, please check the rest of details about AttentionGAN's training/test and so   
 
 ## Evaluation Code
